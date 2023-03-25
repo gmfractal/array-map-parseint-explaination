@@ -48,7 +48,7 @@ parseInt("1", 0, numberStrings); // 1st element: radix argument is 0, so parseIn
 
 parseInt("10", 1, numberStrings); // 2nd element: radix argument is 1, so parseInt return NaN
 
-parseInt("100", 2, numberStrings); // 3rd element: radix argument is 2, so parseInt uses base 2 to parse "100" 
+parseInt("100", 2, numberStrings); // 3rd element: radix argument is 2, so parseInt treats "100" as a base 2 number 
                                    // and returns 4
 
 /** 
