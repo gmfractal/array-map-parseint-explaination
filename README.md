@@ -1,4 +1,4 @@
-# array-map-parseint-explaination
+# array-map-parseint-explanation
 Explanation for JavaScript Array map and parseInt problem
 
 In March 2023, JamesQQuick posted a snippet of JavaScript code using the Array.prototype.map method and parseInt that returned a seemingly incorrect result (https://youtube.com/shorts/dXbR7sGFCMc?feature=share).
